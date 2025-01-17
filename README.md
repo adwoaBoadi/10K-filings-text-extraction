@@ -1,4 +1,4 @@
-# 10K-filings-text-extraction
+# 10K filings text extraction
 
 
 This repository hosts the code designed to extract textual data from various sections of 10-K filings submitted to the U.S. Securities and Exchange Commission (SEC). Leveraging the sec-api.io API, the script efficiently retrieves text data based on the ticker symbols of specific companies of interest. It is tailored to extract comprehensive 10-K filings data from the SEC Edgar database, facilitating in-depth analysis of corporate filings. 
